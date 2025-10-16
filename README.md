@@ -91,10 +91,6 @@ Team leadership, frontend development, backend security implementation, and proj
         src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white"/></a>
 </p>
 
-- [bcrypt](https://github.com/kelektiv/node.bcrypt.js) for password hashing
-- [express-rate-limit](https://github.com/nfriedly/express-rate-limit) for API protection
-- [validator.js](https://github.com/validatorjs/validator.js) for input validation
-
 ### Web3 & Blockchain
 
 <p>
@@ -107,19 +103,23 @@ Team leadership, frontend development, backend security implementation, and proj
 ### Development Tools
 
 <p>
-    <a href="https://vitejs.dev" target="_blank"><img alt="Vite"
-        src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/></a>
-    <a href="https://www.npmjs.com" target="_blank"><img alt="npm"
-        src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
-    <a href="https://git-scm.com" target="_blank"><img alt="Git"
-        src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
-    <a href="https://github.com" target="_blank"><img alt="GitHub"
-        src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://vitejs.dev" target="_blank"><img alt="Vite"
+    src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/></a>
+  <a href="https://www.npmjs.com" target="_blank"><img alt="npm"
+    src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
+  <a href="https://git-scm.com" target="_blank"><img alt="Git"
+    src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+  <a href="https://github.com" target="_blank"><img alt="GitHub"
+    src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img alt="VSCode"
+    src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
+  <a href="https://eslint.org/" target="_blank"><img alt="ESLint"
+    src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"/></a>
+  <a href="https://prettier.io/" target="_blank"><img alt="Prettier"
+    src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white"/></a>
+  <a href="https://babeljs.io/" target="_blank"><img alt="Babel"
+    src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black"/></a>
 </p>
-
-- [VSCode](https://code.visualstudio.com/) with GitHub Copilot
-- [ESLint](https://eslint.org/) & [Prettier](https://prettier.io/) for code quality
-- [Babel](https://babeljs.io/) for JavaScript compilation
 
 ### Cloud & Hosting
 
@@ -129,244 +129,6 @@ Team leadership, frontend development, backend security implementation, and proj
     <a href="https://www.heroku.com" target="_blank"><img alt="Heroku"
         src="https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/></a>
 </p>
-
----
-
-## Frontend frameworks
-<table>
-  <tr>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="50"/><br/>
-      React
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRLVaPhBNOB77faiQJu1EBD1kRWNu4xLgkiw&s" alt="vuejs" width="50"/><br/>
-      Vue.js
-    </td>
-  </tr>
-</table>
-
-## Frontend tools
-<table>
-  <tr>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="vite" width="50"/><br/>
-      Vite
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://pinia.vuejs.org/logo.svg" alt="pinia" width="35"/><br/>
-      Pinia
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://miro.medium.com/v2/resize:fit:1400/1*tafD57XkhWOaZJ-N9RCCbg.jpeg" alt="vuerouter" width="80"/><br/>
-      Vue Router
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://miro.medium.com/v2/resize:fit:1400/1*SirXXHZL0xDpmuI4y36vSw.jpeg" alt="composition API" width="80"/><br/>
-      Vue Composition API
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://redux.js.org/img/redux.svg" alt="redux" width="50"/><br/>
-      Redux
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" alt="react-hook-form" width="50"/><br/>
-      React Hook Form
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://reactrouter.com/_brand/react-router-mark-color.png" alt="react-router" width="50"/><br/>
-      React Router
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/bear.jpg" alt="zustand" width="50"/><br/>
-      Zustand
-    </td>
-  </tr>
-</table>
-
-
-## Frontend library
-<table>
-  <tr>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,w_500,h_500,g_center/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/Tailwind_CSS_Logo.svg_GkNDLAs.png" alt="tailwindcss" width="50"/><br/>
-      TailwindCSS
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://flowbite.s3.amazonaws.com/brand/logo-dark/mark/flowbite-logo.png" alt="flowbite" width="50"/><br/>
-      Flowbite
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Axios_%28computer_library%29_logo.svg/2560px-Axios_%28computer_library%29_logo.svg.png" alt="axios" width="100"/><br/>
-      Axios
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://asset.brandfetch.io/idFdo8ulhr/idzj34qGQm.png" alt="chartjs" width="50"/><br/>
-      ChartJS
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-        <img src="https://camo.githubusercontent.com/af5a2df74b44ecd324f3f7130892271e4852f2fe92f1e8c0a34cb80791cba745/68747470733a2f2f617065786368617274732e636f6d2f6d656469612f617065786368617274732d6c6f676f2e706e67" alt="apexcharts" width="50" hspace="10"/><br/>
-        Apex Charts
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-        <img src="https://user-images.githubusercontent.com/3025322/87547253-bf050400-c6a2-11ea-950a-280311bc6cc8.png" alt="babel" width="50" hspace="10"/><br/>
-        Babel
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ESLint_logo.svg/1200px-ESLint_logo.svg.png" alt="eslint" width="50" hspace="10"/><br/>
-        ESLint
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-        <img src="https://avatars.githubusercontent.com/u/25822731?s=280&v=4" alt="prettier" width="50" hspace="10"/><br/>
-        Prettier
-    </td>
-  </tr>
-</table>
-
-## Backend framework
-<div>
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*i2fRBk3GsYLeUk_Rh7AzHw.png" alt="vitejs" width="50" hspace = "10"/><br/>
-ExpressJS
-</div>
-
-## Backend library
-<table>
-  <tr>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="50"/><br/>
-      Pug
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://media.licdn.com/dms/image/D4D12AQETDLRb5NYoCA/article-cover_image-shrink_600_2000/0/1692383149570?e=2147483647&v=beta&t=jWi7vjjWKSXubhMclP3C9_vkKeHNw36Ymx91SGsbDR8" alt="cors" width="90"/><br/>
-      CORS
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://helmetjs.github.io/img/helmet.svg" alt="helmet" width="50"/><br/>
-      Helmet
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://cdn.jsdelivr.net/gh/passport/www.passportjs.org@master/public/images/logo.svg" alt="passport" width="50"/><br/>
-      Passport.js
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://jwt.io/img/pic_logo.svg" alt="jwt" width="50"/><br/>
-      JWT
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://avatars.githubusercontent.com/u/139426?s=200&v=4" alt="bcrypt" width="50"/><br/>
-      Bcrypt
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://express-rate-limit.mintlify.app/logo.png" alt="rate-limit" width="50"/><br/>
-      Rate Limiting
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://raw.githubusercontent.com/validatorjs/validator.js/master/validator-logo.svg" alt="validator" width="50"/><br/>
-      Validator.js
-    </td>
-  </tr>
-</table>
-
-
-## Blockchain library
-<table>
-  <tr>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" alt="ethers.js" width="50"/><br/>
-      Ethers.js
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://raw.githubusercontent.com/ChainSafe/web3.js/HEAD/assets/logo/web3js.jpg" alt="web3.js" width="50"/><br/>
-      Web3.js
-    </td>
-  </tr>
-</table>
-
-## Host
-<table>
-  <tr>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://cdn.iconscout.com/icon/free/png-256/free-cloudflare-3628686-3029911.png" alt="cloudflare" width="50"/><br/>
-      Cloudflare
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" alt="heroku" width="50"/><br/>
-      Heroku
-    </td>
-  </tr>
-</table>
-
-## Tools
-<table>
-  <tr>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="90"/><br/>
-      Node.js
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="npm" width="90"/><br/>
-      npm
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="vscode" width="50"/><br/>
-      Visual Studio Code
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="50"/><br/>
-      Git
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="50"/><br/>
-      GitHub
-    </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github copilot" width="50"/><br/>
-      GitHub Copilot
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<hr>
-
-## 🧠 Knowledge Areas
-
-### Frontend Development
-
-- Modern React with hooks, context, and performance optimization
-- Vue.js with Composition API, Pinia state management, and Vue Router
-- Component architecture and reusable design systems
-- State management patterns (Redux, Zustand, Pinia)
-- Responsive design and mobile-first development
-
-### Backend Development & Security
-
-- Advanced Express.js with comprehensive security implementation
-- Custom middleware development for authentication and authorization
-- Security headers with Helmet, CORS configuration, and rate limiting
-- JWT authentication and bcrypt password hashing
-- API security best practices and OWASP guidelines
-
-### Web3 Integration
-
-- Wallet connection and blockchain interactions
-- Smart contract integration with ethers.js and web3.js
-- DeFi protocol development and Web2-Web3 bridges
-- Transaction handling and blockchain state management
-
-### DevOps & Infrastructure
-
-- Cloud deployment with Cloudflare and Heroku
-- Git workflows, CI/CD, and collaborative development
-- Performance monitoring and application optimization
-- Domain management and SSL certificate handling
-
----
 
 ## 🤝 Soft Skills
 
